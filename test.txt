@@ -6,3 +6,4 @@ Vite
 Pinia
 NodeJs
 TypeScript
+WebPack
