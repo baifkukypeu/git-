@@ -7,3 +7,4 @@ Pinia
 NodeJs
 TypeScript
 WebPack
+axios
